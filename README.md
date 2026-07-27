@@ -17,12 +17,12 @@ This is a shell plugin that allows you to execute
 [`ghq`](https://github.com/x-motemen/ghq),
 [`fzf-git.sh`](https://github.com/junegunn/fzf-git.sh),
 [`git fuzzy`](https://github.com/bigH/git-fuzzy),
-and [`fzf-opencommit`](https://github.com/gumob/fzf-opencommit)
+and [`fzf-opencommit`](https://github.com/futamura/fzf-opencommit)
 commands using keyboard shortcuts utilizing
 [`junegunn/fzf`](https://github.com/junegunn/fzf),
 [`x-motemen/ghq`](https://github.com/x-motemen/ghq),
 [`bigH/git fuzzy`](https://github.com/bigH/git-fuzzy),
-and [`gumob/fzf-opencommit`](https://github.com/gumob/fzf-opencommit).
+and [`futamura/fzf-opencommit`](https://github.com/futamura/fzf-opencommit).
 
 The following additional features are implemented in the [`ghq`](https://github.com/x-motemen/ghq) command:
 
@@ -33,10 +33,10 @@ The following additional features are implemented in the [`ghq`](https://github.
 
 ## Installation
 
-### Download [fzf-git-util](https://github.com/gumob/fzf-git-util) to your home directory
+### Download [fzf-git-util](https://github.com/futamura/fzf-git-util) to your home directory
 
 ```shell
-wget -O ~/.fzfgitutil https://raw.githubusercontent.com/gumob/fzf-git-util/main/fzf-git-util.sh
+wget -O ~/.fzfgitutil https://raw.githubusercontent.com/futamura/fzf-git-util/main/fzf-git-util.sh
 ```
 
 ### Using key bindings
